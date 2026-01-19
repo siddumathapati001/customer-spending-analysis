@@ -17,4 +17,4 @@ Customer-level transactional and demographic data used for exploratory data anal
 - Visualizations to support insights
 
 ## Status
-Work in progress
+Completed
